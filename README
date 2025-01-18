@@ -1,0 +1,5 @@
+The Tempe Traffic Data Dashboard can be located here: https://mhvo4n-sean-west.shinyapps.io/PAF513_FinalDashboardProject_West/
+
+This dashboard was developed with Tempe City Council as the users in mind. The dashboard enables stakeholders to generate customizeable views of traffic accidents, including time of day, day of week, driver demographics, and substance use involved. The interactive maps assist in displaying cross-streets where accidents occur more frequently. See 'About' tab in the dashboard for additional details. 
+
+The pre-processing of this dashboard was largely completed by Jesse Lecy, and additional tabs were added as part of an Introduction to R course. 
